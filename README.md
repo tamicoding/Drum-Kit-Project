@@ -23,6 +23,6 @@ JavaScript (DOM manipulation & event listeners) for dynamic interactions
 📂 How to Run?
 Clone the repository:
 
-https://github.com/evilfuckinqueen/Drum-Kit-Project
+https://github.com/tamicoding/Drum-Kit-Project
 
 Open the index.html file in your browser
